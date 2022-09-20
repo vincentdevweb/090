@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Access for restricted area"
+AuthUserFile c:/conx/.htpasswd
+require valid-user

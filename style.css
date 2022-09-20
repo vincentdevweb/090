@@ -1,0 +1,7 @@
+input[type="text"] {
+    display: table;
+}
+
+textarea{
+    display: table;
+}
